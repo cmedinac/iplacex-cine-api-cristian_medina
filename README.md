@@ -1,1 +1,1 @@
-# iplacex-cine-api-cristian_medina
+# API REST Express para administración de películas favoritas de empleados de IPLACEX.
